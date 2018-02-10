@@ -1,0 +1,12 @@
+1. Decide on an application area
+2. Design conversations (aka interactions)
+3. List intents, entities, action, responses, context
+4. Train AI engine
+5. Write code for actions
+6. Create and update knowledge base
+7. Test Scenarios and incrementally improve
+
+buildingchatbots@gmail.com
+
+
+Check out torch & LUA

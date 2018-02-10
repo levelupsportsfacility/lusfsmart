@@ -1,0 +1,7 @@
+1. Detect Intents
+2. Extracts Entities
+3. Trigger Actions
+4. Preserves and uses context
+5. Generates Responses
+
+

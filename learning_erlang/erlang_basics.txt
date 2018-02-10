@@ -1,0 +1,6 @@
+# make a file: filname.erl
+# to compile: erl
+                c(filename).
+
+
+

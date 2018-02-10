@@ -1,0 +1,2 @@
+learnyousomeerlang.com
+erlang.org/course
